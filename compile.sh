@@ -3,4 +3,4 @@
 cmake -S . -B build
 pushd build
 make
-./textadventure
+./bin/textadventure
